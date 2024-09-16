@@ -47,7 +47,6 @@ To install and explore the **Breadfast App UI** project, follow these steps:
 - **UIKit**: Used for creating and managing the app's user interface.
 - **UICollectionViewCompositionalLayout**: For creating flexible and complex layouts.
 - **Reusable Components**: Custom cells and headers to ensure scalability and maintainability.
-- **GIF Previews**: Added for a visual demonstration of the app's UI.
 
 ## 🤝 Contributing
 
